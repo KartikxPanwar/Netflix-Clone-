@@ -1,2 +1,2 @@
 # Netflix-Clone-
-recreating responsive  netflix website using HTML, CSS
+recreating responsive  netflix website using HTML, CSS .
